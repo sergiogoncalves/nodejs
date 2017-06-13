@@ -1,0 +1,17 @@
+{
+  "name": "node-notes",
+  "version": "1.0.0",
+  "description": "(app.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Goncalves",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mysql": "^2.13.0",
+    "sequelize": "^4.0.0",
+    "yargs": "^4.7.1"
+  }
+}
